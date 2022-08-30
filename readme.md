@@ -7,3 +7,5 @@
 pull 
 
 commit changes
+
+trigger workflows on pull request
